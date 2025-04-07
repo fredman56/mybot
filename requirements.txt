@@ -1,0 +1,4 @@
+rembg~=2.0.43
+Pillow~=9.5.0
+python-telegram-bot~=20.3
+python-dotenv~=1.0.0

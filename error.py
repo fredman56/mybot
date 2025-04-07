@@ -1,0 +1,2 @@
+class NoEmojiSent(Exception):
+    pass

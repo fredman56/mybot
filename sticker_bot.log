@@ -1,0 +1,1 @@
+❌ Ошибка при проверке подписки: module 'telegram.error' has no attribute 'ChatMemberStatus'
