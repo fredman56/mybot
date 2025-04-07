@@ -34,7 +34,7 @@ def load_env_or_exit(key: str) -> str:
 BOT_TOKEN = load_env_or_exit("BOT_TOKEN")
 BOT_NAME = load_env_or_exit("BOT_NAME")
 REMBG_AI_MODEL = load_env_or_exit("REMBG_AI_MODEL")
-CHANNEL_ID = load_env_or_exit("предлагает member = await bot.get_chat_member("-1002348515440")  # ID канала для проверки подписки
+CHANNEL_ID = load_env_or_exit("предлагает member = await bot.get_chat_member"("-1002348515440")  # ID канала для проверки подписки
 
 HELP_TEXT = """Приветствую 👋
 
